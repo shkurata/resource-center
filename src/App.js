@@ -29,6 +29,7 @@ class App extends Component {
           <MenuItem>Menu Item</MenuItem>
           <MenuItem>Menu Item 2</MenuItem>
         </Drawer>
+
       </div>
     );
   }
